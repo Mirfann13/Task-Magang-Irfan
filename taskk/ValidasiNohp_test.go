@@ -8,7 +8,7 @@ import (
 
 var (
 	benerr    = "6281123321456"
-	salahh    = ""
+	salahh    = "ERROR"
 	pesanbnrr = "No hp yang di masukkan benar"
 	pesanslhh = "No hp yang di masukkan salah"
 )
